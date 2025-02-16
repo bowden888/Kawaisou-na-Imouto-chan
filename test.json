@@ -6,7 +6,7 @@
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123882-ml4rh5AxOtpd.jpg",
   "chapters": {
     "1": {
-      "title": "Chapter 1",
+      "title": "Chapter 11",
       "volume": "1",
       "last_updated": "1632813727",
       "groups": {
@@ -18,7 +18,7 @@
       "volume": "Vol. 1",
       "last_updated": "1633591327",
       "groups": {
-        "AmberScans": "/proxy/api/imgur/chapter/PeZIkwm/"
+        "AmberScans": "/proxy/api/imgur/chapter/KYDVHt1/"
       }
     }
   }
