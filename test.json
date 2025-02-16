@@ -1,24 +1,32 @@
 {
-  "title": "Sawaranu Futari wa Nani wo Suru",
-  "description": "Toru Amemiya (25) works in the human resources department of a general stationery company. She's a serious otaku who loves anime and manga. The first three-dimensional person that Amemiya ever fell in love with, Shuichiro Ren (35), is rumored to be changing jobs. She may never be able to see him again....\nToru musters up the courage to confess her feelings for the first time in her life... but things take an unexpected turn, as Ren's \"life-threatening\" secret is suddenly revealed! And so it begins... a forced platonic love story that hinges between life and death!",
-  "artist": "Horichika",
-  "author": "Horichika",
-  "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx123882-ml4rh5AxOtpd.jpg",
+  "title": "Kawaisou-na-Imouto-chan",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://mangadex.org/covers/fbd9b470-c83d-4238-940d-d335a016d92e/ecc5d4de-1c21-4ddd-a9c9-b865a034c5cd.png",
   "chapters": {
-    "1": {
-      "title": "Chapter 11",
-      "volume": "1",
+    "65.5": {
+      "title": "",
+      "volume": "",
       "last_updated": "1632813727",
       "groups": {
-        "AmberScans": "/proxy/api/imgur/chapter/KYDVHt1/"
+        "": "/proxy/api/imgur/chapter/rBswHFv/"
       }
     },
-    "2": {
-      "title": "Chapter 2",
-      "volume": "Vol. 1",
+    "83.1": {
+      "title": "Future (If)",
+      "volume": "",
+      "last_updated": "1632813727",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KYDVHt1/"
+      }
+    },
+    "83.2": {
+      "title": "Bitter End (If)",
+      "volume": "",
       "last_updated": "1633591327",
       "groups": {
-        "AmberScans": "/proxy/api/imgur/chapter/KYDVHt1/"
+        "s": "/proxy/api/imgur/chapter/KYDVHt1/"
       }
     }
   }
